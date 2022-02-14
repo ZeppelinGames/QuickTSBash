@@ -6,10 +6,12 @@
 [![MIT License][license-shield]][license-url]
 
 ## Description
-Sets up Typescript project via simple bash script
+Sets up Typescript project via simple bash script. Comes with boilerplate HTML and easy to edit bash script to add your own templates to HTML, CSS and TypeScript.
 
 ## Usage
-
+- Place `quicktssetup.sh` into a blank project folder
+- Run `bash quicktssetup.sh` in a bash terminal
+- Choose file names (or use the default `index` ones)
 
 ## License
 This project is licensed under the [MIT] License - see the [LICENSE.md](https://github.com/ZeppelinGames/QuickTSBash/blob/master/LICENSE) file for details
